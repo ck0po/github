@@ -1,0 +1,15 @@
+1) 1title: 
+2) description:
+3) versionapp:
+4) severity: 
+5) priority: 
+6) statusbug: 
+7) author:
+8) environment:
+9) steps:
+    1. 
+    2. 
+    3. 
+10) result
+    1. Expected Result:
+    2. Actual Result:
